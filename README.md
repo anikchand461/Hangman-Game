@@ -1,9 +1,7 @@
 # Hangman-Game
 # Author - Anik Chand
-# Q. Create the hangman game.
 
 import random as r
-# import string as str
 import os
 
 print('''
@@ -481,5 +479,3 @@ Thank you for playing the game.
 Good Bye... 
 ''')
 
-
-# Issue: os module not working
